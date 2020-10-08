@@ -1,0 +1,51 @@
+ My moms box est l’alliée de toutes les mamans. Recevez tous les mois une box surprise pour tout le quotidien d’une maman.
+   Que vous travaillez ou au foyer, cette box vous enchantera avec ses produits bio et ses accessoires.
+Retrouvez dedans : 
+ 2 Produit Bien-être et Beauté Bio
+2 Produits Entretien et Ménage du Foyer 
+1 accessoires de Mode/Décoration 
+Une surprise qui vous profitera pour tout le mois
+Un Livret Astuce et Descriptifs détaillés des produits 
+
+Offre de la Box
+
+   Retrouvez des produits bio pour  une valeur supérieure de 60euros pour seulement 27euros99.
+Abonnez vous sans engagement et bénéficiez de réductions exclusives et une box personnalisez juste pour vous ! 
+
+Un abonnement 3 mois pour 80euros99
+Un abonnement 6 mois pour 150euros
+Un abonnements de 12 mois pour 300euros
+
+Parrainez un proche et bénéficier d'une réduction de 10euros sur votre box.
+
+Cette box peut-être aussi offerte et personnalisez pour un proche au Prix de 30euros.
+
+Si vous aimez les attentions particulières, de la bonne humeur et du bien-être tout les mois à votre égard, cette box est faites pour vous ! 
+
+
+
+site: 
+    page d'accueil
+    page d'abonnement
+    page offrir
+    page "nos box"
+    page concept
+    page contact
+    page condition d'utilisation 
+
+
+    lien pr ruban doré
+    <a href="https://fr.freepik.com/photos-vecteurs-libre/noel">Noël vecteur créé par upklyak - fr.freepik.com</a>
+
+    lien pr ruban doré avec noeud doré
+    <a href="https://fr.freepik.com/photos-vecteurs-libre/fond">Fond photo créé par freepik - fr.freepik.com</a>
+
+    lien cadeau qui s'ouvre paillette doré
+    <a href="https://fr.freepik.com/photos-vecteurs-libre/noel">Noël vecteur créé par freepik - fr.freepik.com</a>
+
+
+    Couleur crème du header => rgb(229, 209, 143)
+    Couleur beige du body => khaki 
+    
+
+    
