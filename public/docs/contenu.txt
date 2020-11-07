@@ -1,22 +1,25 @@
  My moms box est l’alliée de toutes les mamans. Recevez tous les mois une box surprise pour tout le quotidien d’une maman.
    Que vous travaillez ou au foyer, cette box vous enchantera avec ses produits bio et ses accessoires.
 Retrouvez dedans : 
- 2 Produit Bien-être et Beauté Bio
-2 Produits Entretien et Ménage du Foyer 
-1 accessoires de Mode/Décoration 
+  Produit Bien-être et cosmétiques Bio
+ Produits Entretien et Ménage du Foyer
 Une surprise qui vous profitera pour tout le mois
 Un Livret Astuce et Descriptifs détaillés des produits 
 
 Offre de la Box
 
-   Retrouvez des produits bio pour  une valeur supérieure de 60euros pour seulement 27euros99.
+   Retrouvez des produits bio pour  une valeur supérieure de 60euros pour seulement 35,90.
 Abonnez vous sans engagement et bénéficiez de réductions exclusives et une box personnalisez juste pour vous ! 
 
-Un abonnement 3 mois pour 80euros99
-Un abonnement 6 mois pour 150euros
-Un abonnements de 12 mois pour 300euros
+Un abonnement de 1 mois pour 35,90e : non nominative
+Un abonnement 3 mois pour 99,99e
+Un abonnement 6 mois pour 199euros
+Un abonnements de 12 mois pour 399euros
+Ces 3 boxs vont de paire avec un questionnaire de personnalité à remplir par les clients afin que le contenu leur soit personnalisable, en fonction de leurs intérêts.
+Box à offrir 39,90e : nominative personnalisable avec un mot
 
-Parrainez un proche et bénéficier d'une réduction de 10euros sur votre box.
+
+Parrainez un proche et bénéficier d'une réduction de -15% sur votre box.
 
 Cette box peut-être aussi offerte et personnalisez pour un proche au Prix de 30euros.
 
@@ -33,19 +36,11 @@ site:
     page contact
     page condition d'utilisation 
 
-
-    lien pr ruban doré
-    <a href="https://fr.freepik.com/photos-vecteurs-libre/noel">Noël vecteur créé par upklyak - fr.freepik.com</a>
-
-    lien pr ruban doré avec noeud doré
-    <a href="https://fr.freepik.com/photos-vecteurs-libre/fond">Fond photo créé par freepik - fr.freepik.com</a>
-
-    lien cadeau qui s'ouvre paillette doré
-    <a href="https://fr.freepik.com/photos-vecteurs-libre/noel">Noël vecteur créé par freepik - fr.freepik.com</a>
-
-
-    Couleur crème du header => rgb(229, 209, 143)
-    Couleur beige du body => khaki 
     
+système de parainage
+abonnes auront code promo à utiliser pour parainage => rajouter code promo en bdd
+abonnés parains => box passe à 30,90e
+
+frais de port inclus !!!
 
     

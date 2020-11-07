@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Inscription{% endblock %}
+
+{% block body %}
+    {% for flashError in app.flashes('verify_email_error') %}
+        <div class="alert alert-danger" role="alert">{{ flashError }}</div>
+    {% endfor %}
+
+    <h1 class="font-allura text-center mt-5">Créer mon compte My Mom's Box</h1>
+
+    <div class="text-center col-5 m-auto">
+        {{ form_start(registrationForm) }}
+        {{ form_row(registrationForm.firstname) }}
+        {{ form_row(registrationForm.lastname) }}
+        {{ form_row(registrationForm.email) }}
+        {{ form_row(registrationForm.plainPassword) }}
+        {{ form_row(registrationForm.birthdate) }}
+        {{ form_row(registrationForm.agreeTerms, {
+            label: 'J\'accepte les conditions d\'utilisations'
+        }) }}
+    
+        {# Affichage du captcha avec la clé publique récupérée directement grâce à la passerelle faite dans twig.yaml #}
+        <div class="form-group m-auto">
+            <div class="g-recaptcha" data-sitekey="{{ google_recaptcha_site_key }}"></div>
+        </div>
+        
+        {{ form_row(registrationForm.save) }}
+        {{ form_end(registrationForm) }}
+    </div>
+    
+{% endblock %}
+
+{% block stylesheets %}
+    {# Insertion du fichier JS dans le block stylesheets, ce n'est pas une erreur, la documentation de Recaptcha préconise en effet d'intégrer ce fichier JS dans le head #}
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+{% endblock %}
