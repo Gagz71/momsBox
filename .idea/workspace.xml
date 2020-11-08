@@ -11,80 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd24747-057e-420e-9c6a-148c2d74a8cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/migrations/Version20201102141402.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style-base-home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/Diagramme1.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/Allura-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/Helvetica Neu Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeue BlackCond.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeue Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeue Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeue Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeue.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeueBd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeueHv.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeueIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeueLt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/HelveticaNeueMed.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/freefontsdownload.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/helveticaneue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/1x/Fichier 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/1x/Fichier 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/Fichier 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/box_du_mois_fond_transparent.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/box_du_mois_fond_transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons8-ajouter-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons8-chevron-droit-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons8-chevron-gauche-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons8-femme-à-l&amp;#39;ordinateur-30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/moms_box_3_300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/moms_box_3_50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/moms_box_3_optimise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/moms_box_3_petit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/moms_box_open_fond_transparent.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/moms_box_open_fond_transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/moms_box_white_sans_lumière.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/moms_box_white_sans_lumière.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/offrir_moms_box.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/offrir_moms_box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produits d'exemples/Coffret-6-Flacons-au-choix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produits d'exemples/images.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produits d'exemples/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/ruban_dore-momsbox-vertical- 1.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/ruban_dore-momsbox-vertical--optimise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/ruban_vertical-centre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/RegistrationController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/SecurityController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Form/RegistrationFormType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recaptcha/RecaptchaValidator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/UserRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Security/EmailVerifier.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Security/LoginFormAuthenticator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/bundles/TwigBundle/Exception/error403.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/bundles/TwigBundle/Exception/error404.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/bundles/TwigBundle/Exception/error500.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/bundles/TwigBundle/Exception/error503.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/confirmation_email.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/register.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/security/login.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons8-femme-à-ordinateur-30.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/momsBox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/momsBox.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/contenu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/contenu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/—Pngtree—pink gift box illustration cartoon_3801392.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MainController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style-base-home.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style-base-home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/icons8-femme-à-l&amp;#39;ordinateur-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/RegistrationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/RegistrationController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/home.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/home.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/home.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,6 +146,10 @@
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
       <path value="$PROJECT_DIR$/vendor/symfonycasts/verify-email-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iatToMR5FZzK46ySWwllRZzH8Z" />
@@ -277,6 +217,7 @@
       <workItem from="1604700433678" duration="2816000" />
       <workItem from="1604744099455" duration="2840000" />
       <workItem from="1604764052005" duration="2754000" />
+      <workItem from="1604824869544" duration="21516000" />
     </task>
     <servers />
   </component>
@@ -311,6 +252,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="433" y="114" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604320828295" />
+    <state x="529" y="316" width="478" height="304" key="ComposerInitDialogKey" timestamp="1604837231219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="529" y="316" width="478" height="304" key="ComposerInitDialogKey/0.0.1536.834@0.0.1536.834" timestamp="1604837231219" />
     <state x="390" y="148" key="EditFileWatcherDialog" timestamp="1602251048833">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -331,5 +276,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1604254556266" />
+    <state x="408" y="92" width="719" height="650" key="find.popup" timestamp="1604846714693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="408" y="92" width="719" height="650" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1604846714693" />
   </component>
 </project>

@@ -1,9 +1,5 @@
 /*Déclarations polices d'écriture*/
 @font-face{
-    font-family: "Helvetica Neue";
-    src: url("../fonts/HelveticaNeue.ttf");
-}
-@font-face{
     font-family: "Helvetica NeueThin";
     src: url("../fonts/HelveticaNeue Thin.ttf");
 }
@@ -16,6 +12,7 @@
 .font-allura{
     font-family: "Allura", cursive;
 }
+
 .font-helvetica-thin{
     font-family: "Helvetica NeueThin";
 }
@@ -31,30 +28,71 @@ a{
 
 /*P.Base*/
 /*Ma première navbar*/
-#navbarNavDropdown{
+#navbarTogglerDemo01{
     justify-content: space-around;
 }
-a.navbar-brand.font-allura.nav-log-btn {
-    font-size: 25px;
+.nav-log-btn {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
 }
-a.navbar-brand.font-allura.nav-log-btn:hover{
+.nav-log-btn:hover{
     color: darkgoldenrod;
+    text-decoration: none;
+}
+.space-login-btn{
+    position: relative;
+    top: -45px;
+
+}
+.infos-log{
+    font-size: 13px;
+}
+.basket-link-nav{
+    position: relative;
+    top: -50px;
+
+}
+.slogo{
+    font-size: 2.2rem;
+}
+.slogan{
+    font-size: 2rem;
+    letter-spacing: 1px;
+    position: relative;
+    left: 35px;
+    top: -15px;
 }
 .infos-co{
     font-size: 15px;
 }
-#momsBox{
-    font-size: 45px;
-    text-align: center;
-    letter-spacing: 3px;
+.main-slogo{
+    position: relative;
+    left: 100px;
+    top: 13px;
 }
-#main-nav{
-    font-size: 20px;
+.main-nav{
+    position: relative;
+    right: -50px;
+    top: 50px;
 }
 .nav-link{
     color: black;
 }
 .nav-link:hover{
+    color: darkgoldenrod;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: darkgoldenrod;
+}
+.dropdown-menu{
+    background-color: #f8f9fa;
+}
+.dropdown-item{
+    background-color: #f8f9fa;
+}
+.dropdown-item:hover{
+    background-color: #f8f9fa;
     color: darkgoldenrod;
 }
 
@@ -165,7 +203,7 @@ a.navbar-brand.font-allura.nav-log-btn:hover{
         transform: translate(0rem, 0);
     }
 }
-button.btn {
+.discover-btn {
     text-transform: uppercase;
     text-decoration: none;
     font-weight: 700;
@@ -181,7 +219,7 @@ button.btn {
     -webkit-transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.15s;
     transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.15s;
 }
-button.btn::after, button.btn::before {
+.discover-btn::after, .discover-btn::before {
     border: 0;
     content: "";
     position: absolute;
@@ -192,7 +230,7 @@ button.btn::after, button.btn::before {
     z-index: -2;
     border-radius: 50%;
 }
-button.btn::before {
+.discover-btn::before {
     border: 0;
     background-color: #bc7b1b;
     top: -0.75rem;
@@ -200,17 +238,17 @@ button.btn::before {
     -webkit-animation: topAnimation 2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.25s infinite alternate;
     animation: topAnimation 2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.25s infinite alternate;
 }
-button.btn::after {
+.discover-btn::after {
     background-color: black;
     top: 3rem;
     left: 13rem;
     -webkit-animation: bottomAnimation 2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.5s infinite alternate;
     animation: bottomAnimation 2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.5s infinite alternate;
 }
-button.btn:hover {
+.discover-btn:hover {
     color: white;
 }
-button.btn:hover::before, button.btn:hover::after {
+.discover-btn:hover::before, .discover-btn:hover::after {
     top: 0;
     height: 100%;
     width: 100%;
@@ -218,10 +256,10 @@ button.btn:hover::before, button.btn:hover::after {
     -webkit-animation: none;
     animation: none;
 }
-button.btn:hover::after {
+.discover-btn:hover::after {
     left: 0rem;
 }
-button.btn:hover::before {
+.discover-btn:hover::before {
     top: 0.5rem;
     left: 0.35rem;
 }

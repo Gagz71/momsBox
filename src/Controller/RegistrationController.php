@@ -18,7 +18,7 @@ use SymfonyCasts\Bundle\VerifyEmail\VerifyEmailHelperInterface;
 use \DateTime;
 use App\Recaptcha\RecaptchaValidator;  // Importation de notre service de validation du captcha
 use Symfony\Component\Form\FormError;  // Importation de la classe permettant de créer des erreurs dans les formulaires
-use Symfony\Component\VarDumper\Dumper\ServerDumper;
+use Symfony\Component\VarDumper\VarDumper;
 
 class RegistrationController extends AbstractController
 {
@@ -70,6 +70,8 @@ class RegistrationController extends AbstractController
                 $entityManager = $this->getDoctrine()->getManager();
                 $entityManager->persist($user);
                 $entityManager->flush();
+
+                dump($user);
         
                 // generate a signed url and email it to the user
                 $this->emailVerifier->sendEmailConfirmation('app_verify_email', $user,
